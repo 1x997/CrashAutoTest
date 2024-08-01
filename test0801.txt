@@ -7,3 +7,6 @@ git push --set-upstream origin branch1推送该分支下的内容到远端
 切换分支后，才能删除本地当前分支:git checkout master
 删除远程分支：git branch -r -d origin/branch1
 推送该远程删除操作到远端，注意空格：git push origin :branch1
+
+合并分支，切换到当前分支A下，把B的内容合并进来：git merge branchB
+
