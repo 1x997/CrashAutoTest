@@ -1,1 +1,2 @@
 hello autotest
+git branch查看分支
