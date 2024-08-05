@@ -2,4 +2,4 @@ hello autotest
 git branch查看本地分支
 git branch -a 查看远程分支
 git checkout -b branch1 创建本地分支
-git push --set-upstream origin branch1推送该分支下的内容到远端
+git push --set-upstream origin branch1推送该分支下的内容到远端  这是第5行的变更
