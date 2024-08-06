@@ -12,3 +12,4 @@ git push --set-upstream origin branch1推送该分支下的内容到远端
 合并分支，切换到当前分支A下，把B的内容合并进来：git merge branchB
 
 //git push --set-upstream origin branch1推送该分支下的内容到远端  这是第5行的变更
+version1
