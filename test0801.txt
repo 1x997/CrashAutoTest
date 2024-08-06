@@ -10,6 +10,10 @@ git push --set-upstream origin branch1推送该分支下的内容到远端
 推送该远程删除操作到远端，注意空格：git push origin :branch1
 
 合并分支，切换到当前分支A下，把B的内容合并进来：git merge branchB
+回退版本：git reset --hard HEAD^，^有几个，回退几次
+回退到第几个版本：git reset --hard HAED~100，回退到前100个
+查看操作ID：git reflog
+回退到操作ID：git reset --hard 6575a18
 
 //git push --set-upstream origin branch1推送该分支下的内容到远端  这是第5行的变更
 version1
