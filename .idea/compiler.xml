@@ -9,6 +9,14 @@
         <module name="chapter05" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="18" />
+    <bytecodeTargetLevel target="18">
+      <module name="Chapter06" target="18" />
+      <module name="chapter07" target="18" />
+      <module name="chapter08" target="18" />
+      <module name="chapter09" target="18" />
+      <module name="chapter10" target="18" />
+      <module name="chapter11" target="18" />
+      <module name="Chapter6" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
